@@ -1,0 +1,5 @@
+Assemble Data Table Locations
+
+gbd_cause_master = 'C:\\Users\\Justin\\Documents\\GitHub\\IncubatorProposal\\Data\\gbd_cause_master.csv'
+all_reporter = 'C:\\Users\\Justin\\Documents\\GitHub\\IncubatorProposal\\Data\\all_reporter.csv'
+reporter_cause_year = C:\\Users\\Justin\\Documents\\GitHub\\IncubatorProposal\\Data\\reporter_cause_year.csv'
